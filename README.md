@@ -20,4 +20,7 @@ don't want to track a file: <br>
 touch test.txt <br>
 touch .gitignore <br>
 echo "text.txt" > .gitignore <br>
+git add . <br>
+git commit -am "updated" <br>
+git push -u origin main <br>
 =======
