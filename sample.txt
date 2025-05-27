@@ -10,3 +10,4 @@ git status
 git add sample.txt
 git status
 git diff
+git commit -am "updated"
