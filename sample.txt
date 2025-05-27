@@ -1,0 +1,12 @@
+sample file
+
+Commands:
+git clone https://github.com/TamilVYS/kgmtamilstudio.git
+git status
+del .git
+git status
+git init
+git status
+git add sample.txt
+git status
+git diff
