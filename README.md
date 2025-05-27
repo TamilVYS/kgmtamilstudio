@@ -1,0 +1,16 @@
+Pushing first file from cmd to GitHub
+
+Commands:
+git clone https://github.com/TamilVYS/kgmtamilstudio.git
+git status
+del .git
+git status
+git init
+git status
+git add sample.txt
+git status
+git diff
+git commit -am "updated"
+git branch -M main
+git remote add origin https://github.com/TamilVYS/kgmtamilstudio.git
+git push -u origin main
