@@ -14,3 +14,8 @@ git commit -am "updated"
 git branch -M main
 git remote add origin https://github.com/TamilVYS/kgmtamilstudio.git
 git push -u origin main
+
+don't want to track a file:
+touch test.txt
+touch .gitignore
+echo "text.txt" > .gitignore
